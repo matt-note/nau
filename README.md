@@ -1,7 +1,8 @@
 ## Linux用? CLI ナウキャスト
+* CLIからナウキャストで天気の現在の状況を閲覧するスクリプト。
 * 場所は関東地方周辺のみ。
 * 画像ビューアに [eog](https://help.gnome.org/users/eog/stable/index.html.ja) を使用。
-* 10分ほどの誤差は存在という仕様になっている。
+* 10分ほどの誤差は存在する、という仕様。
 
 ### How to use?
 
