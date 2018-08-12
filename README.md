@@ -8,7 +8,7 @@
 ```bash
 1. $ git clone git@github.com:matt-note/nau.git
 2. $ chmod +x nau/nau
-3. $ cp nau/nau /usr/local/bin
+3. $ sudo cp nau/nau /usr/local/bin
 4. $ nau
 ```
 
