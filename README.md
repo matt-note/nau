@@ -12,5 +12,5 @@
 3. $ sudo cp nau/nau /usr/local/bin
 4. $ nau
 ```
-
+![201808132140-00.png](https://github.com/matt-note/nau/blob/master/201808132140-00.png)
 
