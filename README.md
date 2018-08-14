@@ -12,8 +12,12 @@
 3. $ sudo cp nau/nau /usr/local/bin
 4. $ nau
 ```
-* 例:
+* 例:  
 ![201808132140-00.png](https://github.com/matt-note/nau/blob/master/201808132140-00.png)
-* 画像サイズは 25kb ほど。
+* 画像サイズは 25kb ほど。  
 ![img-size.png](https://github.com/matt-note/nau/blob/master/img-size.png)
 
+## 補足事項
+* 9:10 や 9:20 など、1ケタが 0 の時に実行した時に、画像引用元で画像が作られていない場合がある。  
+その場合は、画像の取得に失敗する。  
+その時は、1分ほど待ってから実行すれば、問題なく画像を取得できる。
