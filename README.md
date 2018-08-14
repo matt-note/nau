@@ -12,5 +12,8 @@
 3. $ sudo cp nau/nau /usr/local/bin
 4. $ nau
 ```
+* 例:
 ![201808132140-00.png](https://github.com/matt-note/nau/blob/master/201808132140-00.png)
+* 画像サイズは 25kb ほど。
+![img-size.png](https://github.com/matt-note/nau/blob/master/img-size.png)
 
