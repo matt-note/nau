@@ -13,9 +13,9 @@
 4. $ nau
 ```
 * 例:  
-![201808132140-00.png](https://github.com/matt-note/nau/blob/master/201808132140-00.png)
+![201808132140-00](https://user-images.githubusercontent.com/39484102/54285086-9c616780-45e4-11e9-9282-a55681ecb786.png)
 * 画像サイズは 25kB ほど。  
-![img-size.png](https://github.com/matt-note/nau/blob/master/img-size.png)
+![img-size](https://user-images.githubusercontent.com/39484102/54285089-9e2b2b00-45e4-11e9-82e1-888d1b4021ce.png)
 
 ## 補足事項
 * 9:10 や 9:20 など、1ケタが 0 の時に実行すると、そもそも画像引用元で画像が作られていない場合がある。  
